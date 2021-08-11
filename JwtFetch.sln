@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtFetch", "JwtFetch\JwtFetch.csproj", "{D3AD75BF-D4B8-4770-A19C-4663C528051C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AD75BF-D4B8-4770-A19C-4663C528051C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AD75BF-D4B8-4770-A19C-4663C528051C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AD75BF-D4B8-4770-A19C-4663C528051C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AD75BF-D4B8-4770-A19C-4663C528051C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6538EE0C-F9AB-48B1-BFDC-7866C2AE49A8}
+	EndGlobalSection
+EndGlobal
